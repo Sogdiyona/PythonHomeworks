@@ -1,0 +1,5 @@
+sentence=input("Enter: \nthe sentence - ")
+replacing=input("word to replace - ")
+replaced=input("word to replace with - ")
+sentence_2=sentence.replace(replacing , replaced)
+print(sentence_2)
